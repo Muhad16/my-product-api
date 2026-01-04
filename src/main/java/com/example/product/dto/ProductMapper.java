@@ -1,7 +1,5 @@
-package com.example.product.mapper;
+package com.example.product.dto;
 
-import com.example.product.dto.ProductRequest;
-import com.example.product.dto.ProductResponse;
 import com.example.product.entity.Product;
 
 public class ProductMapper {
