@@ -5,7 +5,7 @@ import com.example.product.dto.ProductRequest;
 import com.example.product.dto.ProductResponse;
 import com.example.product.entity.Product;
 import com.example.product.exception.ProductNotFoundException;
-import com.example.product.mapper.ProductMapper;
+import com.example.product.dto.ProductMapper;
 import com.example.product.repository.ProductRepository;
 import io.quarkus.hibernate.reactive.panache.common.WithSession;
 import io.quarkus.hibernate.reactive.panache.common.WithTransaction;
